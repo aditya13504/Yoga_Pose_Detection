@@ -22,6 +22,9 @@ yoga-pose-detection/
   - images/
 - requirements.txt
 
+## NOTE: After installation, create a 'models' folder in the project folder.
+
+---
 ## Installation ⚙️
 1. **Clone the repository**:
    ```bash
